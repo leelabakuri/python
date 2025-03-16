@@ -1,7 +1,7 @@
 s=input()
 res = '-'.join(s)
 print(res)
-#output:sai:s-a-i
+#output:hello=h-e-l-l-o
 #2nd method
 a=input()
 c=0
